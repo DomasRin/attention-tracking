@@ -72,9 +72,12 @@ zone_4,4.667,22.91,False
 
 `most_looked_at=True` identifies the zone with the longest recorded dwell time.
 
-## Limitations
+## Visual work
 
-- Webcam gaze estimation is approximate and intended for large screen areas.
-- Accuracy depends on lighting, camera position, head movement, and calibration quality.
-- Only the primary monitor and four equal zones are currently supported.
-- The result measures on-screen gaze, not cognitive attention.
+
+https://drive.google.com/file/d/19w-m84G8inJzrRGtPvx7Oc7F3bUC8M_u/view?usp=sharing
+
+
+
+
+
