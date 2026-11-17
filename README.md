@@ -51,7 +51,7 @@ python -m pip install -r requirements.txt
 python attention_tracker.py
 ```
 
-Look directly at each calibration point. After calibration, look around the four zones. Press Escape to finish and create `attention_results.csv`.
+Look directly at each calibration point. After calibration, look around the four zones. Press *Escape* to finish and create `attention_results.csv`.
 
 Optional arguments:
 
