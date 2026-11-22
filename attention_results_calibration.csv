@@ -1,0 +1,3 @@
+camera,training_samples,validation_error_pixels,fusion_weight
+1,571,109.50,0.3901
+2,571,70.04,0.6099
